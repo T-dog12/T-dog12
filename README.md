@@ -4,7 +4,7 @@ Games programmer<br>
 ---
 ### :speech_balloon: About Me
 I am a C++ developer who is currently studying games programming at the University of Staffordshire. This involves graphics, game engines and game AI. <br>
-I also want to create more open sauce as I believe there should be more free tools out there.
+As my long term goal I want to create more open sauce as I believe there should be more free tools out there.
 
 ---
 ### :computer: My Favourite Projects
